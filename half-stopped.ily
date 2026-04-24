@@ -1,6 +1,6 @@
 \version "2.24.0"
 
-half-stopped-markup =  \markup { \circle { \musicglyph #"scripts.stopped" } }
+half-stopped-markup = \markup { \circle { \musicglyph #"scripts.stopped" } }
 
 #(append! default-script-alist
   `(
